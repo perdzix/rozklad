@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
                 y += 1
 
             }
-
+//
             findViewById<TextView>(R.id.text1).text = wynik.toString()
 
         }
